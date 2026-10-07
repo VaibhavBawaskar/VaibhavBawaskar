@@ -1,6 +1,13 @@
 # Hi, I'm Vaibhav Manohar Bawaskar 👋
 
 ### Full Stack Developer | Java & Spring Boot | React.js | Flutter | Django
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
 
 I'm a passionate Full Stack Developer focused on building scalable,
 user-friendly web and mobile applications using modern technologies.
@@ -47,6 +54,10 @@ frontend and backend systems, and continuously learning new technologies.
 ### Databases
 - MySQL
 - MongoDB
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### Tools & Technologies
 - Git
@@ -101,7 +112,7 @@ information and digital services.
 - AI-based Crop Disease Detection
 
 
-
+---
 ## 📊 What I Do
 
 Frontend Development     ████████████████████
@@ -110,11 +121,11 @@ API Development          ██████████████████�
 Database Management      ██████████████████
 Application Testing      ████████████████
 Problem Solving          ██████████████████
-
+---
 🤝 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-bawaskar-48a933319/
 - 💻 GitHub: https://github.com/VaibhavBawaskar
 - 📧 Email: vaibhavbawaskar7@gmail.com
-
+---
 ⭐ Thanks for visiting my profile!
 I'm always interested in learning new technologies, building real-world applications, solving challenging problems, and collaborating on meaningful software projects.
