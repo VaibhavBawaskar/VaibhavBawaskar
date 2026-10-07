@@ -1,425 +1,150 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vaibhav Manohar Bawaskar**
+<!-- Profile Image (Replace with your actual image URL) -->
+<img src="YOUR_PROFILE_IMAGE_URL" alt="Vaibhav Manohar Bawaskar" width="150" style="border-radius: 50%; border: 4px solid #3b82f6;"/>
 
-### 🚀 Full Stack Developer | Java & Spring Boot | React.js | Flutter | Django
+<h1>Hi, I'm Vaibhav Manohar Bawaskar 👋</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+<h3>Full Stack Developer | Java & Spring Boot | React.js | Flutter | Django</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/MCA-Graduate-0078D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST-API-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_To_Work-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-### 💻 Turning Ideas Into Real-World Software Solutions
+<p><i>Code • Build • Improve • Repeat</i></p>
 
-**Code • Build • Test • Improve • Deploy**
+<p>
+  I'm a passionate Full Stack Developer focused on building scalable, user-friendly web and mobile applications using modern technologies.<br>
+  I enjoy solving real-world problems, developing REST APIs, integrating frontend and backend systems, and continuously learning new technologies.
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-> 🚀 I'm a passionate **Full Stack Developer** focused on building scalable, secure and user-friendly web and mobile applications.
-
-> 💡 I enjoy solving real-world problems, developing REST APIs, integrating frontend and backend systems, and continuously learning modern technologies.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Profile
+## 👤 About Me
 
 - 🎓 MCA Graduate
 - 💻 Full Stack Developer
-- 🚀 Java & Spring Boot
-- ⚛️ React.js
-- 📱 Flutter & Dart
-- 🐍 Python & Django
+- 🚀 Currently improving my skills in Advanced Flutter & Backend Development
+- 🎯 Interested in Java Full Stack, Web & Mobile Application Development
+- 🛡️ Experience with Application Testing, API Testing & Bug Identification
+- 📍 Pune, Maharashtra, India
 
-</td>
+<br>
 
-<td width="50%">
-
-### 🎯 Focus
-
-- 🌐 Web Development
-- 📱 Mobile Development
-- 🔗 REST API Development
-- 🗄️ Database Management
-- 🧪 Application Testing
-- 🤖 AI & Machine Learning
-
-</td>
-</tr>
-</table>
+> 💡 **"Turning Ideas into Real Solutions"**
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## ☕ Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white) ![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white) |
 
 ---
 
-## ⚙️ Backend Development
+## 🚀 Featured Projects
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+### 🌾 Farmer Marketplace
+Full-stack marketplace platform connecting farmers and buyers directly.
+- **Tech Stack:** React.js, Spring Boot, MySQL, JWT, Cloudinary, Razorpay
+- **Features:** Role-based Authentication, Farmer Product Management, Shopping Cart, Order Management, Online Payments, Cloudinary Integration, Admin Management.
 
----
-
-## ⚛️ Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 🔧 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🌾 Farmer Marketplace
-
-Full-stack marketplace platform connecting **farmers and buyers directly**.
-
-### 🧩 Tech Stack
-
-`React.js` `Spring Boot` `MySQL` `JWT` `Cloudinary` `Razorpay`
-
-### ✨ Features
-
-- 🔐 Role-based Authentication
-- 👨‍🌾 Farmer Product Management
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 💳 Online Payments
-- ☁️ Cloudinary Integration
-- 👨‍💼 Admin Management
-
-</td>
-
-<td width="50%">
-
-## 🎟️ BookMySeat
-
+### 🎟️ BookMySeat
 Online seat booking platform with payment integration and seat management.
+- **Tech Stack:** Django, Python, MySQL, Razorpay
+- **Features:** Online Seat Booking, Seat Locking, Razorpay Payment, Booking Management, Analytics, User Management.
 
-### 🧩 Tech Stack
-
-`Python` `Django` `MySQL` `Razorpay`
-
-### ✨ Features
-
-- 🎫 Online Seat Booking
-- 🔒 Seat Locking
-- 💳 Razorpay Payment
-- 📊 Booking Management
-- 📈 Analytics
-- 👤 User Management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🏦 Bank Management System
-
+### 🏦 Bank Management System
 Banking application for managing customers, accounts and transactions.
+- **Tech Stack:** Spring Boot, Django, MySQL
+- **Features:** Customer Management, Account Management, Transactions, Authentication, Database Management.
 
-### 🧩 Tech Stack
-
-`Java` `Spring Boot` `Django` `MySQL`
-
-### ✨ Features
-
-- 👤 Customer Management
-- 🏦 Account Management
-- 💰 Transactions
-- 🔐 Authentication
-- 🗄️ Database Management
-
-</td>
-
-<td width="50%">
-
-## 🏥 Doctor Appointment Management
-
+### 👨‍⚕️ Doctor Appointment Management
 Healthcare application for managing doctors, patients and appointments.
+- **Tech Stack:** Java, Spring Boot, React.js, MySQL
+- **Features:** Doctor Management, Patient Management, Appointment Scheduling, Authentication, Database Management.
 
-### 🧩 Tech Stack
-
-`Java` `Spring Boot` `React.js` `MySQL`
-
-### ✨ Features
-
-- 👨‍⚕️ Doctor Management
-- 👤 Patient Management
-- 📅 Appointment Scheduling
-- 🔐 Authentication
-- 🗄️ Database Management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌱 Shetkari Mitra
-
+### 🌱 Shetkari Mitra
 Smart agriculture application designed to help farmers with crop-related information and digital services.
-
-### 🧩 Tech Stack
-
-`Flutter` `Dart` `Spring Boot` `MySQL` `AI`
-
-### ✨ Features
-
-- 📷 Crop Image Analysis
-- 🌾 Disease Information
-- 🤖 AI Recommendations
-- 🌦️ Weather Information
-- 💊 Crop Medicine Information
-- 👨‍🌾 Farmer Profile
-
-</td>
-
-<td width="50%">
-
-## 💡 Development Approach
-
-### 🔄 My Workflow
-
-**1️⃣ Understand**  
-↓  
-**2️⃣ Design**  
-↓  
-**3️⃣ Develop**  
-↓  
-**4️⃣ Test**  
-↓  
-**5️⃣ Debug**  
-↓  
-**6️⃣ Deploy**  
-↓  
-**7️⃣ Improve**
-
-</td>
-
-</tr>
-</table>
+- **Tech Stack:** Flutter, Dart, Spring Boot, MySQL, AI
+- **Features:** Crop Image Analysis, Disease Information, AI Recommendations, Weather Information, Crop Medicine Information, Farmer Profile.
 
 ---
 
-# 🧪 Development & Testing
+## 📚 Currently Learning
 
-<table>
-<tr>
-<td>🔍 Application Testing</td>
-<td>🧪 API Testing</td>
-<td>🐞 Bug Identification</td>
-</tr>
-
-<tr>
-<td>📋 User Story Testing</td>
-<td>🔄 API Response Validation</td>
-<td>🔧 Troubleshooting</td>
-</tr>
-
-<tr>
-<td>🌐 Browser DevTools</td>
-<td>📊 Data Verification</td>
-<td>🔗 Flow Verification</td>
-</tr>
-</table>
+- ✅ Advanced Flutter Development
+- ✅ State Management
+- ✅ API Integration
+- ✅ JSON Parsing
+- ✅ Advanced Spring Boot
+- ✅ Machine Learning Basics
+- ✅ AI-based Crop Disease Detection
 
 ---
 
-# 📚 Currently Learning
+## 💡 What I Do
 
-<table>
-<tr>
-<td>⚡ Advanced Flutter</td>
-<td>🔄 State Management</td>
-</tr>
-
-<tr>
-<td>🌐 REST API Integration</td>
-<td>📦 JSON Parsing</td>
-</tr>
-
-<tr>
-<td>🔐 Secure Authentication</td>
-<td>🧩 Advanced Spring Boot</td>
-</tr>
-
-<tr>
-<td>🤖 Machine Learning</td>
-<td>🌱 Crop Disease AI</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud & Deployment</td>
-<td>🚀 Application Architecture</td>
-</tr>
-</table>
+| Area | Proficiency |
+| :--- | :--- |
+| Frontend Development | ████████████████████ 95% |
+| Backend Development | ████████████████████ 95% |
+| API Development | ████████████████████ 95% |
+| Database Management | ██████████████████ 85% |
+| Application Testing | ███████████████ 75% |
+| Problem Solving | ██████████████████ 90% |
 
 ---
 
-# 💡 What I Do
+## 🧪 Testing & Quality Assurance
 
-| 💻 Area | 🚀 Technologies |
-|---|---|
-| 🎨 Frontend Development | React.js • HTML • CSS • JavaScript |
-| ⚙️ Backend Development | Java • Spring Boot • Django |
-| 🌐 API Development | REST APIs • JSON • Postman |
-| 🗄️ Database Management | MySQL • MongoDB |
-| 📱 Mobile Development | Flutter • Dart |
-| 🔐 Authentication | JWT • Spring Security |
-| 🧪 Application Testing | Functional Testing • API Testing |
-| 🐞 Debugging | Bug Identification • Troubleshooting |
-| 🧠 Problem Solving | Real-world Software Solutions |
+| | | |
+| :--- | :--- | :--- |
+| 🔍 Application Testing | 🧪 API Testing | 🐞 Bug Identification |
+| 📋 User Story Testing | 🔄 API Response Validation | 🔧 Troubleshooting |
+| 🌐 Browser DevTools | 📊 Data Verification | 🔗 Flow Verification |
 
 ---
 
-# 🎯 Career Interests
+## 🔄 My Development Process
 
-<p>
-<img src="https://img.shields.io/badge/Java_Full_Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software_Development-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Development-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Application_Testing-2E7D32?style=for-the-badge"/>
+1️⃣ Understand → 2️⃣ Design → 3️⃣ Develop → 4️⃣ Test → 5️⃣ Debug → 6️⃣ Deploy → 7️⃣ Improve
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-bawaskar-48a933319/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Bawaskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/VaibhavBawaskar">
+    <img src="https://img.shields.io/badge/GitHub-VaibhavBawaskar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:vaibhavbawaskar7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vaibhavbawaskar7-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
-
-# 📊 Developer Mindset
-
-```text
-💻 Development        ████████████████████
-⚙️ Backend             ████████████████████
-🌐 API Development     ████████████████████
-⚛️ Frontend            ███████████████████
-📱 Flutter             █████████████████
-🗄️ Database            █████████████████
-🧪 Testing             ███████████████
-🧠 Problem Solving     ███████████████████
-🤖 AI / ML Learning    ██████████████
-```
-
----
-
-# 🌱 My Development Philosophy
-
 <div align="center">
-
-### 💡 Learn → Build → Test → Improve → Repeat
-
-**"Turning ideas into practical software solutions."**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vaibhav-bawaskar-48a933319/">
-<img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Bawaskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VaibhavBawaskar">
-<img src="https://img.shields.io/badge/GitHub-VaibhavBawaskar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:vaibhavbawaskar7@gmail.com">
-<img src="https://img.shields.io/badge/Email-vaibhavbawaskar7-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <i>"Let's build something amazing together"</i> 🚀
 </div>
 
 ---
 
 <div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### 🚀 Code • Build • Improve • Grow
-
-I'm always interested in learning new technologies, building real-world applications, solving challenging problems, and collaborating on meaningful software projects.
-
-### 💙 Let's Build Something Amazing Together!
-
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐<br>
+  I'm always interested in learning new technologies, building real-world applications,<br>
+  solving challenging problems, and collaborating on meaningful software projects.
 </div>
