@@ -90,7 +90,7 @@ I enjoy solving real-world problems, developing REST APIs, integrating frontend 
 ## 🌾 Farmer Marketplace
 
 <p align="center">
-  <img src="./images/farmer-marketplace.png" width="850" alt="Farmer Marketplace"/>
+  <img src="./Gemini_Generated_Image_1w91h11w91h11w91.png" width="850" alt="Farmer Marketplace"/>
 </p>
 
 Full-stack marketplace platform connecting **farmers and buyers**.
@@ -120,7 +120,7 @@ Full-stack marketplace platform connecting **farmers and buyers**.
 ## 🎟️ BookMySeat
 
 <p align="center">
-  <img src="./images/bookmyseat.png" width="850" alt="BookMySeat"/>
+  <img src="./Gemini_Generated_Image_tqe8lntqe8lntqe8.png" width="850" alt="BookMySeat"/>
 </p>
 
 Online seat booking platform with payment integration and seat management.
@@ -149,7 +149,7 @@ Online seat booking platform with payment integration and seat management.
 ## 🏦 Bank Management System
 
 <p align="center">
-  <img src="./images/bank-management.png" width="850" alt="Bank Management System"/>
+  <img src="./Gemini_Generated_Image_l5n7z2l5n7z2l5n7.png" width="850" alt="Bank Management System"/>
 </p>
 
 Banking application for managing customers, accounts and transactions.
@@ -171,7 +171,7 @@ Banking application for managing customers, accounts and transactions.
 ## 🏥 Doctor Appointment Management
 
 <p align="center">
-  <img src="./images/doctor-appointment.png" width="850" alt="Doctor Appointment Management"/>
+  <img src="./Gemini_Generated_Image_lo83v7lo83v7lo83.jpg" width="850" alt="Doctor Appointment Management"/>
 </p>
 
 Healthcare application for managing doctors, patients and appointments.
@@ -193,7 +193,7 @@ Healthcare application for managing doctors, patients and appointments.
 ## 🌱 Shetkari Mitra
 
 <p align="center">
-  <img src="./images/shetkari-mitra.png" width="850" alt="Shetkari Mitra"/>
+  <img src="./Gemini_Generated_Image_8dcjf8dcjf8dcjf8.png" width="850" alt="Shetkari Mitra"/>
 </p>
 
 Smart agriculture application designed to help farmers with crop-related information and digital services.
@@ -202,6 +202,14 @@ Smart agriculture application designed to help farmers with crop-related informa
 
 `Flutter` `Dart` `Spring Boot` `MySQL` `AI`
 
+### ✨ Features
+
+- 🌾 Crop Information
+- 📷 Crop Image Analysis
+- 🤖 AI-Based Assistance
+- 🌦️ Weather Information
+- 💊 Agriculture & Medicine Information
+- 👨‍🌾 Farmer Profile & Farm Management
 ### ✨ Features
 
 - 📷 Crop Image Analysis
