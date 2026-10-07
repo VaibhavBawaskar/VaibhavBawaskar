@@ -115,20 +115,19 @@ I enjoy solving real-world problems, developing REST APIs, integrating frontend 
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🌾 Farmer Marketplace
 
-Full-stack marketplace platform connecting **farmers and buyers**.
+<p align="center">
+  <img src="./images/farmer-marketplace.png" width="850"/>
+</p>
 
-**Tech Stack**
+Full-stack marketplace platform connecting **farmers and buyers** with secure authentication, product management, shopping cart, orders and online payments.
+
+### 🛠️ Tech Stack
 
 `React.js` `Spring Boot` `MySQL` `JWT` `Cloudinary` `Razorpay`
 
-**Features**
+### ✨ Features
 
 - 🔐 Role-based Authentication
 - 👨‍🌾 Farmer Product Management
@@ -138,19 +137,27 @@ Full-stack marketplace platform connecting **farmers and buyers**.
 - ☁️ Cloudinary Integration
 - 👨‍💼 Admin Management
 
-</td>
+<p align="center">
+  <a href="https://github.com/VaibhavBawaskar/farmer-marketplace-2026">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<td width="50%">
+---
 
 ## 🎟️ BookMySeat
 
-Online seat booking platform with payment integration.
+<p align="center">
+  <img src="./images/bookmyseat.png" width="850"/>
+</p>
 
-**Tech Stack**
+Online seat booking platform with secure booking, seat locking, payment integration and booking analytics.
+
+### 🛠️ Tech Stack
 
 `Python` `Django` `MySQL` `Razorpay`
 
-**Features**
+### ✨ Features
 
 - 🎫 Online Seat Booking
 - 🔒 Seat Locking
@@ -159,23 +166,27 @@ Online seat booking platform with payment integration.
 - 📈 Analytics
 - 👤 User Management
 
-</td>
+<p align="center">
+  <a href="https://move-tikit-book.onrender.com">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20Project-success?style=for-the-badge"/>
+  </a>
+</p>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🏦 Bank Management System
 
-Banking application for managing customers, accounts and transactions.
+<p align="center">
+  <img src="./images/bank-management.png" width="850"/>
+</p>
 
-**Tech Stack**
+Banking application designed to manage customers, accounts and financial transactions through a structured backend system.
+
+### 🛠️ Tech Stack
 
 `Java` `Spring Boot` `Django` `MySQL`
 
-**Features**
+### ✨ Features
 
 - 👤 Customer Management
 - 🏦 Account Management
@@ -183,19 +194,21 @@ Banking application for managing customers, accounts and transactions.
 - 🔐 Authentication
 - 🗄️ Database Management
 
-</td>
-
-<td width="50%">
+---
 
 ## 🏥 Doctor Appointment Management
 
-Healthcare application for managing doctors, patients and appointments.
+<p align="center">
+  <img src="./images/doctor-appointment.png" width="850"/>
+</p>
 
-**Tech Stack**
+Healthcare application designed to manage doctors, patients and appointment scheduling.
+
+### 🛠️ Tech Stack
 
 `Java` `Spring Boot` `React.js` `MySQL`
 
-**Features**
+### ✨ Features
 
 - 👨‍⚕️ Doctor Management
 - 👤 Patient Management
@@ -203,23 +216,21 @@ Healthcare application for managing doctors, patients and appointments.
 - 🔐 Authentication
 - 🗄️ Database Management
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## 🌱 Shetkari Mitra
 
-Smart agriculture application designed to help farmers with crop-related information and digital services.
+<p align="center">
+  <img src="./images/shetkari-mitra.png" width="850"/>
+</p>
 
-**Tech Stack**
+Smart agriculture application designed to help farmers with crop-related information, AI-based crop analysis and digital farming services.
+
+### 🛠️ Tech Stack
 
 `Flutter` `Dart` `Spring Boot` `MySQL` `AI`
 
-**Features**
+### ✨ Features
 
 - 📷 Crop Image Analysis
 - 🌾 Crop Disease Information
@@ -229,9 +240,7 @@ Smart agriculture application designed to help farmers with crop-related informa
 - 👨‍🌾 Farmer Profile
 - 🚜 Farm Management
 
-</td>
-
-<td width="50%">
+---
 
 ## 💡 Development Workflow
 
@@ -250,13 +259,6 @@ Smart agriculture application designed to help farmers with crop-related informa
    ↓
 🔄 Improvement
 ```
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 🧪 Development & Testing
 
