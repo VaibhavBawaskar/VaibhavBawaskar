@@ -120,7 +120,7 @@ Full-stack marketplace platform connecting **farmers and buyers**.
 ## 🎟️ BookMySeat
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_tqe8lntqe8lntqe8.png" width="850" alt="BookMySeat"/>
+   <img src="./Gemini_Generated_Image_lo83v7lo83v7lo83.jpg" width="850" alt="BookMySeat"/>
 </p>
 
 Online seat booking platform with payment integration and seat management.
@@ -171,7 +171,7 @@ Banking application for managing customers, accounts and transactions.
 ## 🏥 Doctor Appointment Management
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_lo83v7lo83v7lo83.jpg" width="850" alt="Doctor Appointment Management"/>
+  <img src="./Gemini_Generated_Image_tqe8lntqe8lntqe8.png" width="850"alt="Doctor Appointment Management"/>
 </p>
 
 Healthcare application for managing doctors, patients and appointments.
