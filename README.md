@@ -24,7 +24,7 @@
 
 I'm a passionate **Full Stack Developer** focused on building scalable, secure and user-friendly web and mobile applications.
 
-I enjoy solving real-world problems, developing REST APIs, integrating frontend and backend systems, and continuously learning modern technologies.
+I enjoy solving real-world problems, developing REST APIs, integrating frontend and backend systems, testing applications, identifying bugs, and continuously learning modern technologies.
 
 | 🎓 Profile | 🎯 Focus |
 |---|---|
@@ -202,14 +202,6 @@ Smart agriculture application designed to help farmers with crop-related informa
 
 `Flutter` `Dart` `Spring Boot` `MySQL` `AI`
 
-### ✨ Features
-
-- 🌾 Crop Information
-- 📷 Crop Image Analysis
-- 🤖 AI-Based Assistance
-- 🌦️ Weather Information
-- 💊 Agriculture & Medicine Information
-- 👨‍🌾 Farmer Profile & Farm Management
 ### ✨ Features
 
 - 📷 Crop Image Analysis
